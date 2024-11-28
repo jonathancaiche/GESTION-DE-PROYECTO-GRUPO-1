@@ -1,0 +1,252 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="4x2cbZLQotfB_cQqExD_">
+    <mxGraphModel dx="2100" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nMfhgSxOMLzbd9giqib0-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-1" target="nMfhgSxOMLzbd9giqib0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-1" target="nMfhgSxOMLzbd9giqib0-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-1" target="nMfhgSxOMLzbd9giqib0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-1" value="&lt;b&gt;&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;1. Viabilidad del proyecto&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-2" value="&lt;b&gt;&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;1. Viabilidad del proyecto&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-3" target="nMfhgSxOMLzbd9giqib0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-3" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;1.1. Viabilidad técnica&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-4" target="nMfhgSxOMLzbd9giqib0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;1.2 viabilidad económica&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-6" value="1.1.1. Estudios geotécnicos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-8" value="1.3.1. Revisión de permisos y normativas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-11" target="nMfhgSxOMLzbd9giqib0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-11" value="1.1.2. Estudios de las condiciones del suelo." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-16" value="1.2.1. Presupuesto preliminar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-18" value="1.3. Viabilidad jurídica" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-20" target="nMfhgSxOMLzbd9giqib0-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-20" target="nMfhgSxOMLzbd9giqib0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-20" value="&lt;b&gt;&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;2. Diseño básico&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-21" value="&lt;b&gt;&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;1. Viabilidad del proyecto&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-22" target="nMfhgSxOMLzbd9giqib0-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-22" value="2.1. estudio de requerimientos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-23" target="nMfhgSxOMLzbd9giqib0-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-23" value="2.2. Elaboración del expediente administrativo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-24" value="2.1.1. Requerimientos academicos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-27" value="2.1.2. Espacios para aulas y oficinas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-28" value="2.2.1. Estudios de accesibilidad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-32" value="2.2.2. Estudios de seguridad contra incendios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-35" target="nMfhgSxOMLzbd9giqib0-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-35" target="nMfhgSxOMLzbd9giqib0-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-35" target="nMfhgSxOMLzbd9giqib0-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-35" value="&lt;b&gt;&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;3. Diseño de detalle&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-36" value="&lt;b&gt;&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;1. Viabilidad del proyecto&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-37" target="nMfhgSxOMLzbd9giqib0-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-37" value="3.1. Recopilar y profundizar estudios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-38" target="nMfhgSxOMLzbd9giqib0-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-38" value="3.2. Definición exacta de las construcciones." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-39" target="nMfhgSxOMLzbd9giqib0-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-39" value="3.1.1. Geotécnico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-40" value="3.1.3. Térmico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-42" target="nMfhgSxOMLzbd9giqib0-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-42" value="3.1.2. Estructural" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-43" target="nMfhgSxOMLzbd9giqib0-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-43" value="3.3. Administrativo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-46" value="3.3.1. Aprobación del diseño y viabilidad del proyecto." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-47" value="3.3.1. Aprobación del diseño y viabilidad del proyecto." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-49" target="nMfhgSxOMLzbd9giqib0-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-49" target="nMfhgSxOMLzbd9giqib0-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-49" value="&lt;b&gt;&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;4. Ejecución y finalización&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-50" value="&lt;b&gt;&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;1. Viabilidad del proyecto&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-51" target="nMfhgSxOMLzbd9giqib0-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-51" value="4.1. Obra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-52" target="nMfhgSxOMLzbd9giqib0-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-52" value="4.2 Finalización" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-53" target="nMfhgSxOMLzbd9giqib0-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-53" value="4.1.1. Preparación del terreno" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-54" target="nMfhgSxOMLzbd9giqib0-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-54" value="4.1.3. Cimentación" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-55" target="nMfhgSxOMLzbd9giqib0-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-55" value="4.2.4. Control de seguridad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-56" target="nMfhgSxOMLzbd9giqib0-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-56" value="4.1.2. Movimiento de tierra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-57" target="nMfhgSxOMLzbd9giqib0-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-57" value="4.2.1. Evaluación de la dirección del proyecto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-58" value="4.1.6. Fachadas y ventanas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-59" target="nMfhgSxOMLzbd9giqib0-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-59" value="4.1.5. Techo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-60" target="nMfhgSxOMLzbd9giqib0-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-60" value="4.2.3. Revisión por la Universidad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-61" target="nMfhgSxOMLzbd9giqib0-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-61" value="4.2.2. Entrega a la Universidad Estatal Península de Santa Elena" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-62" target="nMfhgSxOMLzbd9giqib0-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-62" value="4.1.4. Estructuras" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.406;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-18" target="nMfhgSxOMLzbd9giqib0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-82" value="4.2.5. Entrega final y cierre del proyecto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-98" target="nMfhgSxOMLzbd9giqib0-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="885" y="190" />
+              <mxPoint x="270" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-98" target="nMfhgSxOMLzbd9giqib0-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-98" target="nMfhgSxOMLzbd9giqib0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMfhgSxOMLzbd9giqib0-98" target="nMfhgSxOMLzbd9giqib0-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMfhgSxOMLzbd9giqib0-98" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;&lt;b&gt;0. Construcción de pabellones en la Universidad Estatal Península de Santa Elena&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="450" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
